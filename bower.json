@@ -1,0 +1,13 @@
+{
+  "name": "leumas-ui-datetime-picker",
+  "homepage": "https://github.com/TheEyeOfATiger/bootstrap-ui-datetime-picker",
+  "authors": [
+    "TheEyeOfATiger <lazar.samuel@gmail.com>"
+  ],
+  "description": "modified bootstrap-ui-datetime-picker, solved a bug that was appearing when formating the variable",
+  "main": "./public/datetime-picker.js",
+  "keywords": [
+    "leumas-ui-datetime-picker"
+  ],
+  "license": "NO"
+}
